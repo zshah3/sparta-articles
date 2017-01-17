@@ -8,7 +8,7 @@ To add an article to this project:
 
 1. Fork the repo to your GitHub account.
 2. Add a new object to `articles.json` (details below).
-3. Add a new entry to `articles.html` (details below).
+3. Add a new entry to `index.html` (details below).
 4. Open a pull request to the original repo.
 
 ### The `articles.json` File
