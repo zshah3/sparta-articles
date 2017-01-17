@@ -1,6 +1,6 @@
 # Sparta Global Medium Articles
 
-This repo contains articles written by students from [Sparta Global](http://spartaglobal.com). It is available to view at http://student-articles.spartaglobal.com.
+This repo contains articles written by students from [Sparta Global](http://spartaglobal.com). It is available to view at https://spartaglobal.github.io/sparta-articles/. 
 
 ## Adding an Article
 
@@ -26,9 +26,9 @@ To add your article to the `articles.json` file, add a new object to the bottom 
 
 Your course ID is the same as the name of your slack channel, all lowercase.
 
-### The `articles.html` File
+### The `index.html` File
 
-To add your article to the `articles.html` file, add a new list item to the list for your course in the following format:
+To add your article to the `index.html` file, add a new list item to the list for your course in the following format:
 
 ```html
 <li>
