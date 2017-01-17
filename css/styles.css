@@ -1,7 +1,7 @@
 /* Page Header */
 
 .page-header {
-  background: #202529 url('images/map.svg') no-repeat;
+  background: #202529 url('/images/map.svg') no-repeat;
   background-size: cover;
   background-position: center 20%;
   color: white;
