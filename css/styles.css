@@ -1,0 +1,36 @@
+/* Page Header */
+
+.page-header {
+  background: #202529 url('images/map.svg') no-repeat;
+  background-size: cover;
+  background-position: center 20%;
+  color: white;
+  text-align: center;
+  padding: 2em;
+}
+
+.page-header h1 {
+  font-family: Ubuntu;
+  font-weight: 500;
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+
+.page-header p {
+  font-weight: 100;
+}
+
+main {
+  padding: 1rem;
+}
+
+section h2 {
+  font-family: Ubuntu;
+  border-bottom: 3px solid #34BEEF;
+  margin-bottom: 0;
+}
+
+section p {
+  margin-top: .5em;
+  font-size: .75em;
+}
